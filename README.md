@@ -11,7 +11,7 @@
 
 #### 영상  
 > * Combine Visual odometry and DGPS with Kalman filter (https://youtu.be/486i2IAEFHw)
-> * Express Lidar data using Point Cloud Lib (https://www.youtube.com/watch?v=xLN5Wu_x2eE)
+> * Express Lidar data using Point Cloud Lib (https://youtu.be/xLN5Wu_x2eE)
 
 ##### 이메일 받습니다.
 ##### quene__@naver.com
