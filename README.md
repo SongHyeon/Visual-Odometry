@@ -9,6 +9,10 @@
 > * 카메라 : GX-FW-28S5C-C (http://cylod.vizensoft.com:92/upload/cy/product/1491876464636_241.pdf)
 > * 라이다 : SICK-LMS291 (https://www.sick.com/kr/ko/detection-and-ranging-solutions/2d-lidar-/lms1xx/c/g91901)
 
+#### 영상  
+> * Combine Visual odometry and DGPS with Kalman filter (https://youtu.be/486i2IAEFHw)
+> * Express Lidar data using Point Cloud Lib (https://www.youtube.com/watch?v=xLN5Wu_x2eE)
+
 ##### 이메일 받습니다.
 ##### quene__@naver.com
 ##### https://www.acmicpc.net/user/grands 
